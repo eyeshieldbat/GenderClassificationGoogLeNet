@@ -7,7 +7,7 @@ Parameter yang digunakan pada uji coba :
   2. Loss function : CrossEntropyLoss
   3. Optimizer : Adam
   4. Batch size : 32
-  5. Epoch : 10, 32
+  5. Epoch : 10
 
 # Tabel Model
 ![image](https://github.com/eyeshieldbat/GenderClassificationGoogLeNet/assets/106160575/1994d49f-8579-43a5-a2d2-25dbfd08291e)
